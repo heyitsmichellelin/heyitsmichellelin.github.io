@@ -13,6 +13,14 @@ h1 {
     color:rgb(110, 98, 98)
 }
 
+#resume {
+    font-weight: bold;
+    color:rgb(110, 98, 98);
+    text-decoration: underline;
+    
+
+}
+
 #profile_pic {
     height: 300px;
     border-radius: 24px;
@@ -20,6 +28,10 @@ h1 {
     float: right;
     box-shadow: 0px 0px 20px #fff;
     border: solid #fff
+}
+
+#project_descriptions {
+    font-size: 1em;
 }
 
 .social-icon {
@@ -48,7 +60,7 @@ h2 {
 }
 
 p {
-    font-size: 1.8em;
+    font-size: 1.5em;
     font-family: 'Open Sans', sans-serif;
     color: #464343;
     margin-top: 0px;
@@ -56,7 +68,7 @@ p {
 }
 
 ul {
-    font-size: 1.8em;
+    font-size: 1.5em;
     font-family: 'Open Sans', sans-serif;
     color: #464343;
     margin-top: 0px;
